@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app_btman</string>
+
+    <string name="Filmeindrod">Filme</string>
+    <string name="Filmemusic">Músicas</string>
+    <string name="Filmelocation">Localização</string>
+    <string name="Filmeinvestigs">Investigações</string>
+    <string name="FilmeDC">DC</string>
+</resources>
